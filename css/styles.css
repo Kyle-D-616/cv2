@@ -1,0 +1,144 @@
+a {
+  color: #11999E;
+  margin: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  color: black;
+  margin: 0;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  background-color: #F9F7F7;
+}
+
+h1 {
+  line-height: 2;
+  color: #112D4E;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-size: 3.625rem;
+  font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+  font-weight: normal;
+  color: #112D4E;
+  font-size: 1.5rem;
+  font-family: 'Cinzel', serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #112D4E;
+  font-family: 'Great Vibes', cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #A5BECC;
+  border-width: 5px;
+  width: 5%;
+}
+
+.ax {
+  margin-right: 30px;
+  float: left;
+  width: 25%
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Cinzel', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-cloud {
+  position: relative;
+  left: 10px;
+  bottom: 350px;
+}
+
+.bottom-container {
+  background-color: #DBE2EF;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px;
+}
+
+.mountain {
+  position: relative;
+  height: 260px;
+  right: 50px;
+}
+
+.profile-pic {
+  height: 200px;
+}
+
+.profile {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: center;
+}
+
+.skills {
+  padding-top: 10px;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.top-container {
+  background-color: #DBE2EF;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+  top: 40px;
+}
+
+.tonfa {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.tested {
+  font-size: 2rem;
+}
+
+.training {
+  font-size: 2rem;
+}
