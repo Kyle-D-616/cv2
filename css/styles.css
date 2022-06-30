@@ -113,10 +113,11 @@ hr {
 }
 
 .skill-row {
-  line-height: 2;
+  line-height: 1;
   margin: 100px auto 100px auto;
   width: 50%;
   text-align: left;
+  padding-bottom: 10px;
 }
 
 .top-container {
